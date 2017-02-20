@@ -1,0 +1,15 @@
+body{
+    line-height:25px;
+}
+
+body div{
+    border: 1px solid #e7e7e7;
+    padding:5px;
+    margin: 5px auto;
+    width: 800px;
+}
+
+div input{
+    padding:5px;
+    margin: 5px;
+}
